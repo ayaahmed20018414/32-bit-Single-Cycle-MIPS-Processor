@@ -23,6 +23,7 @@ output of the Fibonacci series numbers.
 ![Screenshot (816)](https://user-images.githubusercontent.com/82789012/187983823-db6077a9-63d8-4519-924f-7e8b4ae65b4d.png)
 
 Finally, I used Quartus (Quartus Prime 18.1) Lite Edition to synthesis and see the RTL implementation of MIPS processor after Design.
+
 MIPS Processor TOP view module
 ![Screenshot (819)](https://user-images.githubusercontent.com/82789012/187985394-df89dcb2-3ec5-41df-8955-23a623f785c4.png)
 MIPS Processor internal implementation
