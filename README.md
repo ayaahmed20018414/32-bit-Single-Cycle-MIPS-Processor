@@ -5,7 +5,7 @@ Complete single-cycle MIPS processor implementation
 ![Screenshot (808)](https://user-images.githubusercontent.com/82789012/187975733-fd1aadc1-9656-4d85-9c1f-109b2ef47658.png)
 
 MIPS single-cycle processor interfaced to external memory.
-
+![Screenshot (810)](https://user-images.githubusercontent.com/82789012/187977353-d0d03c9e-30ac-43f9-9a20-8edbfa920720.png)
 
 
 
