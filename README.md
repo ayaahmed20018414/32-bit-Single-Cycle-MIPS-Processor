@@ -5,25 +5,16 @@ Complete single-cycle MIPS processor implementation
 ![Screenshot (808)](https://user-images.githubusercontent.com/82789012/187975733-fd1aadc1-9656-4d85-9c1f-109b2ef47658.png)
 
 
+in this Project, I ran three projects to test it:
+1st program: GCD of 120 and 180, 2nd program: the factorial of 7, 3rd program: the Fibonacci series numbers.
+
+output of 1st Proram GCD of 120 and 180.
 
 
+output of 2nd Program the factorial of 7.
 
 
-
-
-
-
-
-
-
-
-
-*in this Project, I ran three projects to test it:
-1st program: GCD of 120 and 180.
-2nd program: the factorial of 7.
-3rd program: the Fibonacci series numbers.
-
-
+output of the Fibonacci series numbers.
 
 
 
