@@ -13,6 +13,7 @@ in this Project, I ran three projects to test it:
 1st program: GCD of 120 and 180, 2nd program: the factorial of 7, 3rd program: the Fibonacci series numbers.
 
 output of 1st Proram GCD of 120 and 180.
+![Screenshot (811)](https://user-images.githubusercontent.com/82789012/187982219-9f469cd7-1b04-43d9-b886-2174451e178b.png)
 
 
 output of 2nd Program the factorial of 7.
