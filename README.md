@@ -4,6 +4,10 @@ In this project, I implement a 32-bit single-cycle microarchitecture MIPS proces
 Complete single-cycle MIPS processor implementation 
 ![Screenshot (808)](https://user-images.githubusercontent.com/82789012/187975733-fd1aadc1-9656-4d85-9c1f-109b2ef47658.png)
 
+MIPS single-cycle processor interfaced to external memory.
+
+
+
 
 in this Project, I ran three projects to test it:
 1st program: GCD of 120 and 180, 2nd program: the factorial of 7, 3rd program: the Fibonacci series numbers.
