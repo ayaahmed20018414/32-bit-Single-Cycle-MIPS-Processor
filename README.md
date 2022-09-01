@@ -23,10 +23,15 @@ output of the Fibonacci series numbers.
 ![Screenshot (816)](https://user-images.githubusercontent.com/82789012/187983823-db6077a9-63d8-4519-924f-7e8b4ae65b4d.png)
 
 Finally, I used Quartus (Quartus Prime 18.1) Lite Edition to synthesis and see the RTL implementation of MIPS processor after Design.
+MIPS Processor TOP view module
 ![Screenshot (819)](https://user-images.githubusercontent.com/82789012/187985394-df89dcb2-3ec5-41df-8955-23a623f785c4.png)
+MIPS Processor internal implementation
 ![Screenshot (821)](https://user-images.githubusercontent.com/82789012/187985678-1a46de6d-4505-46bc-8f76-7c46f1b2125d.png)
+Controller internal Design
 ![Screenshot (825)](https://user-images.githubusercontent.com/82789012/187985954-6afe934f-9f3b-4548-a5ac-8e5d9077c9de.png)
+Control unit internal implementation
 ![Screenshot (826)](https://user-images.githubusercontent.com/82789012/187986085-fafcc16f-9f55-4281-9737-89b96c7b2e94.png)
+Data Path internal implementation 
 ![Screenshot (827)](https://user-images.githubusercontent.com/82789012/187986301-b42a3faa-757b-4b02-9452-76b58f9dd590.png)
 
 
