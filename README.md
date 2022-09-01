@@ -17,9 +17,14 @@ output of 1st Proram GCD of 120 and 180.
 
 
 output of 2nd Program the factorial of 7.
-![Screenshot (813)](https://user-images.githubusercontent.com/82789012/187982847-06affca5-4267-4057-9bd1-bbb8c5aa69af.png)
+![Screenshot (814)](https://user-images.githubusercontent.com/82789012/187983044-56a0a7ae-7712-4fd0-bce3-734c6c05aa24.png)
 
 output of the Fibonacci series numbers.
+![Screenshot (816)](https://user-images.githubusercontent.com/82789012/187983823-db6077a9-63d8-4519-924f-7e8b4ae65b4d.png)
+
+
+
+
 
 
 
